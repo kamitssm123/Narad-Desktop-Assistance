@@ -1,0 +1,9 @@
+PING google.com(bom12s09-in-x0e.1e100.net (2404:6800:4009:81a::200e)) 56 data bytes
+64 bytes from bom12s09-in-x0e.1e100.net (2404:6800:4009:81a::200e): icmp_seq=1 ttl=117 time=203 ms
+64 bytes from bom12s09-in-x0e.1e100.net (2404:6800:4009:81a::200e): icmp_seq=2 ttl=117 time=431 ms
+64 bytes from bom12s09-in-x0e.1e100.net (2404:6800:4009:81a::200e): icmp_seq=3 ttl=117 time=453 ms
+64 bytes from bom12s09-in-x0e.1e100.net (2404:6800:4009:81a::200e): icmp_seq=4 ttl=117 time=271 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 203.289/339.649/453.436/105.434 ms
